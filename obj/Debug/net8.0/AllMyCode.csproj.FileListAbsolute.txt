@@ -1,0 +1,15 @@
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\bin\Debug\net8.0\AllMyCode.exe
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\bin\Debug\net8.0\AllMyCode.deps.json
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\bin\Debug\net8.0\AllMyCode.runtimeconfig.json
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\bin\Debug\net8.0\AllMyCode.dll
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\bin\Debug\net8.0\AllMyCode.pdb
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.AssemblyInfoInputs.cache
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.AssemblyInfo.cs
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.sourcelink.json
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.dll
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\refint\AllMyCode.dll
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.pdb
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\AllMyCode.genruntimeconfig.cache
+C:\Users\alexe\Programmering\Thecodeisshit\AllMyCode\obj\Debug\net8.0\ref\AllMyCode.dll

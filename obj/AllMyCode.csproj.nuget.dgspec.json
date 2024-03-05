@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexe\\Programmering\\Thecodeisshit\\AllMyCode\\AllMyCode.csproj": {}
+    "C:\\MySourceCodeForProgrammingB2023\\AllTheCode\\AllTheCode\\AllMyCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexe\\Programmering\\Thecodeisshit\\AllMyCode\\AllMyCode.csproj": {
+    "C:\\MySourceCodeForProgrammingB2023\\AllTheCode\\AllTheCode\\AllMyCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexe\\Programmering\\Thecodeisshit\\AllMyCode\\AllMyCode.csproj",
+        "projectUniqueName": "C:\\MySourceCodeForProgrammingB2023\\AllTheCode\\AllTheCode\\AllMyCode.csproj",
         "projectName": "AllMyCode",
-        "projectPath": "C:\\Users\\alexe\\Programmering\\Thecodeisshit\\AllMyCode\\AllMyCode.csproj",
-        "packagesPath": "C:\\Users\\alexe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexe\\Programmering\\Thecodeisshit\\AllMyCode\\obj\\",
+        "projectPath": "C:\\MySourceCodeForProgrammingB2023\\AllTheCode\\AllTheCode\\AllMyCode.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\MySourceCodeForProgrammingB2023\\AllTheCode\\AllTheCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
